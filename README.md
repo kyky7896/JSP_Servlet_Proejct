@@ -38,8 +38,13 @@
   </div>
   </details>
 
-  <h3>로그아웃</h3>
-  <h3>탈퇴</h3>
+  <details>
+  <summary> <h3>로그아웃, 탈퇴</h3> </summary>
+  <div markdown="1">
+  
+  ![JSP_로그아웃탈퇴](https://user-images.githubusercontent.com/77670592/191193439-b90bf49f-bf33-4b7d-9456-97c6ece7f543.gif)
+  </div>
+  </details>
 
   <details>
   <summary> <h3>내정보수정 </h3> </summary>
