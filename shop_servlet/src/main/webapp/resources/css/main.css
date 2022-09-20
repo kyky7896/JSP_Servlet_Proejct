@@ -1,0 +1,30 @@
+html{
+    height: 100%;
+
+}
+
+body{
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+#row{
+    width: 100%;
+    max-width: 1120px;
+    margin: auto;
+}
+
+#wrap {
+    min-height: 100%;
+    position: relative;
+    padding-bottom: 60px;
+}
+
+footer {
+    position: relative; (absolute -> relative)
+    transform: translatY(-100%);
+}
+div{
+    margin-outside: 10px;
+}
